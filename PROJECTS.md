@@ -13,6 +13,7 @@ This catalog organizes the current workspace and the three Perplexity research d
 
 | Clean Name | Current Repo/Folder | Purpose | Next Cleanup |
 | --- | --- | --- | --- |
+| Revenue Forge | [`revenue-forge`](https://github.com/P4ND4907/revenue-forge) | Private dashboard for organizing auto blog, SaaS, lead-generation, and money-project launch ideas from the Perplexity source. | Add brief/export generation and connect useful ideas to existing product repos. |
 | InboxPilot AI | `inboxpilot-ai` | AI email operations SaaS for Gmail classification, bills, events, subscriptions, and cleanup review. | Keep as flagship SaaS; add demo screenshots and pricing notes. |
 | FlipFlow Hub | `flipflow-hub` | Deal sourcing, flipping, lead generation, listing optimization, and payout tracking. | Add setup guide and money-flow examples. |
 | Fiverr Sniper AI | `fiverr-sniper-ai` | Local freelance lead review, job selection, planning, delivery, and payout tracking. | Keep private-first; document extension import flow. |
@@ -24,6 +25,7 @@ This catalog organizes the current workspace and the three Perplexity research d
 
 | Clean Name | Current Repo/Folder | Purpose | Next Cleanup |
 | --- | --- | --- | --- |
+| Crypto Daytrader Analyst | [`crypto-daytrader-analyst`](https://github.com/P4ND4907/crypto-daytrader-analyst) | Private, paper-only crypto market analyst dashboard for bias, setups, invalidation, risk rules, and scenarios. | Add trade journal and optional market-data adapters behind paper-only defaults. |
 | Kalshi Scout | `kalshi-scout` | FastAPI + React paper-trading dashboard for Kalshi-style prediction markets. | Preserve safety defaults; add audit/risk dashboard docs. |
 | Pandora Trading | `TRADING` | Electron + FastAPI desktop trading HUD with bot controls, market data, AI chat, and backtesting. | Rename in GitHub later to `pandora-trading` after branch cleanup. |
 | Kalshi Scout Live | `Autobot-latest-main` | Live Kalshi assistant with signed API access and strict risk caps. | Merge the useful parts back into `kalshi-scout` or archive duplicate. |
@@ -34,7 +36,7 @@ This catalog organizes the current workspace and the three Perplexity research d
 
 | Clean Name | Current Repo/Folder | Purpose | Next Cleanup |
 | --- | --- | --- | --- |
-| Audit Dashboard | `kalshi-scout`, `TRADING`, future `financial-audit-dashboard` | Cross-project idea from the Perplexity audit-dashboard research: trace data sources, transforms, model signals, orders, and risk decisions. | Create one shared spec before building another app. |
+| Financial Audit Dashboard | [`financial-audit-dashboard`](https://github.com/P4ND4907/financial-audit-dashboard) | Starter audit dashboard from the Perplexity audit-dashboard research: trace data sources, transforms, model signals, controls, and review evidence. | Add importable flow definitions and weekly review export. |
 | Feedback Automation System | `feedback-automation-system` | Turns raw feedback into prioritized tasks with AI clustering and approval gates. | Can supply the task-review workflow for financial audits. |
 | Pandora Build Cache | `pandora-desktop` | Build-cache and task-graph system for multiple toolchains. | Keep as infrastructure; do not mix with trading logic. |
 

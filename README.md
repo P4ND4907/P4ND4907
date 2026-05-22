@@ -14,9 +14,12 @@ I build practical AI tools, trading dashboards, local automation systems, and sm
 ## Featured Repositories
 
 - [InboxPilot AI](https://github.com/P4ND4907/inboxpilot-ai) - Gmail-first AI email operations SaaS.
+- [Revenue Forge](https://github.com/P4ND4907/revenue-forge) - private dashboard for auto blog, SaaS, and money-project launch ideas.
 - [FlipFlow Hub](https://github.com/P4ND4907/flipflow-hub) - workflow OS for deal sourcing, flips, leads, listings, and payouts.
 - [Fiverr Sniper AI](https://github.com/P4ND4907/fiverr-sniper-ai) - local freelance lead review and delivery workspace.
 - [Kalshi Scout](https://github.com/P4ND4907/kalshi-scout) - paper-safe prediction-market research dashboard.
+- [Crypto Daytrader Analyst](https://github.com/P4ND4907/crypto-daytrader-analyst) - paper-only crypto market analyst dashboard.
+- [Financial Audit Dashboard](https://github.com/P4ND4907/financial-audit-dashboard) - financial data architecture traceability dashboard.
 - [TRADING](https://github.com/P4ND4907/TRADING) - Electron + FastAPI trading HUD with paper-trading defaults.
 - [AudioTuner Local](https://github.com/P4ND4907/audiotuner-local) - local-first gaming audio tuning suite.
 - [Pandora Build Cache](https://github.com/P4ND4907/pandora-desktop) - private polyglot build cache wrapper.
