@@ -42,7 +42,7 @@ This catalog organizes the current workspace and the three Perplexity research d
 
 | Clean Name | Current Repo/Folder | Purpose | Next Cleanup |
 | --- | --- | --- | --- |
-| AudioTuner Local | `audiotuner-local` | Local reconstruction of the gaming audio suite: EQ studio, mic analysis simulator, hearing model, and Equalizer APO export. | Initialize/publish as `audiotuner-local` after dependency cleanup. |
+| AudioTuner Local | [`audiotuner-local`](https://github.com/P4ND4907/audiotuner-local) | Local reconstruction of the gaming audio suite: EQ studio, mic analysis simulator, hearing model, and Equalizer APO export. | Published; add screenshots and profile import/export next. |
 | AutoEQ Helper | `autoeq` | Automatic Equalizer APO profile switching from headset/game JSON profiles. | Add examples for popular games/headsets. |
 | Gaming Buddy | `gaming-buddy` | Windows helper for gaming audio and lightweight game-aware tuning. | Decide whether this becomes the desktop shell for AudioTuner. |
 | Footstep Test | `footstep-test` | Small experiment around footsteps/audio tests. | Merge into AudioTuner or archive. |
@@ -92,4 +92,3 @@ These should be done after confirming branches and remotes:
 | `Autobot` | archive | Duplicate Kalshi line. |
 | `Autobot-improved` | archive | Duplicate Kalshi line. |
 | `Trading-Logic` | `trading-logic` or archive | Empty placeholder. |
-
