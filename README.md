@@ -2,7 +2,7 @@
   <img src="assets/profile-card.svg" alt="P4ND4907 profile card" width="100%" />
 </div>
 
-# Carl / P4ND4907
+#  P4ND4907
 
 I build local-first products, audio tools, trading research systems, and automation dashboards. My favorite projects are practical: they run on a real machine, have safe defaults, show their setup clearly, and keep honest notes about what is finished and what is still experimental.
 
