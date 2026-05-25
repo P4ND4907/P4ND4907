@@ -14,7 +14,7 @@ This catalog keeps the workspace organized by product line. Main projects get cl
 | Pandora Desktop | [`pandora-desktop`](https://github.com/P4ND4907/pandora-desktop) | Desktop infrastructure for builds, task graphs, and local developer tooling. | Active infrastructure |
 | Vector Control Hub | [`Vector`](https://github.com/P4ND4907/Vector) | Local-first dashboard for controlling, inspecting, and testing a Vector robot. | Active hardware |
 | InboxPilot AI | [`inboxpilot-ai`](https://github.com/P4ND4907/inboxpilot-ai) | Gmail-first AI email operations product. | Active SaaS |
-| YardNow | [`yardnow`](https://github.com/P4ND4907/yardnow) | Route-service app for field work and closed-beta operations. | Active product |
+| Scoop907 by Panda 907 | [`yardnow`](https://github.com/P4ND4907/yardnow) | Dog poop cleanup marketplace for customer requests, worker signups, property leads, ZIP-based route activation, worker favorites, and private job comments. | Active product |
 
 ## Supporting Projects
 

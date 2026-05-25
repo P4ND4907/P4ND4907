@@ -17,7 +17,7 @@ I build local-first products, audio tools, trading research systems, and automat
 | Audio Intelligence | Game-aware audio tools, mic checks, IEM/headphone tuning, hearing-aware EQ, and Equalizer APO workflows. | [CueForge](https://github.com/P4ND4907/cueforge) |
 | Trading Research | Paper-first dashboards, replay, risk controls, and market scouting tools. | [Kalshi Scout](https://github.com/P4ND4907/kalshi-scout), [TRADING](https://github.com/P4ND4907/TRADING) |
 | Local Ops | Windows helpers, desktop dashboards, private workflow tools, and robot-control utilities. | [Panda Ops](https://github.com/P4ND4907/panda-ops), [Vector](https://github.com/P4ND4907/Vector), [Pandora Desktop](https://github.com/P4ND4907/pandora-desktop) |
-| Product Automation | Inbox, service, lead, route, and revenue systems with safer automation defaults. | [InboxPilot AI](https://github.com/P4ND4907/inboxpilot-ai), [YardNow](https://github.com/P4ND4907/yardnow), [Revenue Forge](https://github.com/P4ND4907/revenue-forge) |
+| Product Automation | Inbox, service, lead, route, and revenue systems with safer automation defaults. | [InboxPilot AI](https://github.com/P4ND4907/inboxpilot-ai), [Scoop907 by Panda 907](https://github.com/P4ND4907/yardnow), [Revenue Forge](https://github.com/P4ND4907/revenue-forge) |
 
 ## Featured Work
 
@@ -29,7 +29,12 @@ I build local-first products, audio tools, trading research systems, and automat
 - [Pandora Desktop](https://github.com/P4ND4907/pandora-desktop) - desktop infrastructure for builds, task graphs, and local tooling.
 - [Vector Control Hub](https://github.com/P4ND4907/Vector) - local-first dashboard for controlling and inspecting a Vector robot.
 - [InboxPilot AI](https://github.com/P4ND4907/inboxpilot-ai) - Gmail-first AI email operations product.
-- [YardNow](https://github.com/P4ND4907/yardnow) - closed-beta route-service app.
+- [Scoop907 by Panda 907](https://github.com/P4ND4907/yardnow) - dog poop cleanup marketplace for customers, workers, properties, ZIP-based route activation, worker favorites, and private job comments.
+
+## May 25, 2026 Product Focus
+
+- `product(scoop907)`: moving the legacy service app into the Scoop907 by Panda 907 brand, with Alaska as the launch origin and ZIP-based expansion built into the marketplace model.
+- `growth(scoop907)`: preparing customer, worker, and property ad copy so launch demand can be tested by route density instead of guessing where to open service next.
 
 ## May 24, 2026 Update Rollup
 
