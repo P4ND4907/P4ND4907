@@ -57,7 +57,6 @@ Node/npm projects:
 - `panda-ops`
 - `pandora-desktop`
 - `revenue-forge`
-- `rift-runners`
 - `storage-flip-assistant`
 - `Vector`
 - `yardnow`
@@ -93,6 +92,8 @@ git clone https://github.com/P4ND4907/TRADING.git
 git clone https://github.com/P4ND4907/Vector.git
 git clone https://github.com/P4ND4907/yardnow.git
 ```
+
+Do not clone `rift-runners` by default. It is parked as unfinished and was removed from the active PC workspace on May 25, 2026.
 
 Fetch backup branches after cloning:
 

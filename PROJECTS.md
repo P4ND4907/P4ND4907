@@ -25,7 +25,6 @@ This catalog keeps the workspace organized by product line. Main projects get cl
 | Crypto Intelligence | [`crypto-intelligence`](https://github.com/P4ND4907/crypto-intelligence) | Research notes and prototype logic around crypto-market monitoring. | Keep as research until it has a focused product surface. |
 | FIT-CHECK | [`FIT-CHECK`](https://github.com/P4ND4907/FIT-CHECK) | Personal style/fit experiment that may become a small app. | Decide whether it is portfolio-worthy or move to unfinished. |
 | Micro Skills Mobile | [`micro-skills-mobile`](https://github.com/P4ND4907/micro-skills-mobile) | Learning/productivity mobile app experiment. | Keep only if it gets screenshots and a real roadmap. |
-| Rift Runners | [`rift-runners`](https://github.com/P4ND4907/rift-runners) | Game project with demo potential. | Add controls, screenshots, and a short playtest note. |
 
 ## Archived Or Unfinished
 
@@ -44,6 +43,7 @@ The following repos were archived or removed from the active workspace during th
 - `Trading-Logic`
 - `first-dapp-panda`
 - `tower-defense`
+- `rift-runners` - parked as unfinished; keep the GitHub repo and Discord/community mention as unfinished, but do not restore it to this PC by default.
 
 Recovery notes, deleted-local-clone names, and cleanup logs live in [`unfinished/docs`](https://github.com/P4ND4907/unfinished/tree/main/docs).
 
